@@ -1,0 +1,28 @@
+{
+  "name": "countries-alphanumeric-sms-sender-support__scraping__",
+  "version": "1.0.0",
+  "description": "Scrape Countries Alpha Support information from Twilio",
+  "main": "scrape.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eGullGolf/countries-alphanumeric-sms-sender-support.git"
+  },
+  "keywords": [
+    "data",
+    "csv",
+    "countries",
+    "sms",
+    "sender"
+  ],
+  "author": "eGull SAS",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/eGullGolf/countries-alphanumeric-sms-sender-support/issues"
+  },
+  "homepage": "https://github.com/eGullGolf/countries-alphanumeric-sms-sender-support#readme",
+  "private": true,
+  "dependencies": {
+    "artoo-js": "^0.3.4",
+    "request": "^2.81.0"
+  }
+}
