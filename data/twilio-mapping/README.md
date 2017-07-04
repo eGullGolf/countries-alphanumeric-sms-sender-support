@@ -12,7 +12,7 @@ of territory names over time.
 
 ### Requirement
 
-* [csvkit](https://github.com/wireservice/csvkit) version 1.0.1 or compatible
+* [csvkit](https://github.com/wireservice/csvkit) version 1.0.2 or compatible
 
 ### Usage
 
