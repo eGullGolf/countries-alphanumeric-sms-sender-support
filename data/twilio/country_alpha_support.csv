@@ -16,7 +16,7 @@ Bahamas,Yes,No
 Bahrain,Yes,No
 Bangladesh,No, 
 Barbados,Yes,No
-Belarus,Yes,No
+Belarus,Yes,Optional
 Belgium,No, 
 Belize,Yes,No
 Benin,Yes,No
@@ -46,7 +46,7 @@ Congo D.R.,No, 
 Cook Islands,Yes,No
 Costa Rica,No, 
 Croatia,No, 
-Cuba,No, 
+Cuba,Yes,Required
 Cyprus,Yes,No
 Czech Republic,Yes,No
 Denmark,Yes,No
@@ -55,7 +55,7 @@ Djibouti,Yes,No
 Dominica,Yes,No
 Dominican Republic,No, 
 Ecuador,No, 
-Egypt,No, 
+Egypt,Yes, 
 El Salvador,No, 
 Equatorial Guinea,Yes,No
 Estonia,Yes,No
@@ -88,7 +88,7 @@ Hong Kong,Yes,No
 Hungary,No, 
 Iceland,Yes,No
 India,Yes,Required
-Indonesia,Yes,Required**
+Indonesia,Yes,Required
 Iran,No, 
 Iraq,No, 
 Ireland,Yes,No
@@ -148,11 +148,11 @@ Norfolk Island,Yes,No
 Norway,Yes,No
 Oman,Yes,Required
 Pakistan,No, 
-Palestinian Territory,Yes,No
+Palestinian Territory,Yes only for Jawwal Palestine,Required  
 Panama,No, 
 Papua New Guinea,Yes,No
 Paraguay,Yes,No
-Peru,Yes,No
+Peru,Yes (except for Claro) ,No
 Philippines,Yes,Required
 Poland,Yes,No
 Portugal,Yes,No
@@ -160,7 +160,7 @@ Puerto Rico,No, 
 Qatar,No, 
 Reunion,Yes,No
 Romania,No, 
-Russia,Yes,No
+Russia,Yes,Optional
 Rwanda,Yes,No
 Samoa,Yes,No
 San Marino,Yes,No
@@ -189,7 +189,7 @@ Swaziland,Yes,No
 Sweden,Yes,No
 Switzerland,Yes,No
 Syria,No, 
-Taiwan,Yes,No 
+Taiwan,No, 
 Tajikistan,Yes,No
 Tanzania,Yes,No
 Thailand,Yes,Optional
@@ -203,7 +203,7 @@ Turkmenistan,Yes,No
 Turks & Caicos Islands,Yes,No
 Uganda,Yes,No
 Ukraine,Yes,No
-United Arab Emirates,Yes,Required*** 
+United Arab Emirates,Yes,Required**
 United Kingdom,Yes,No
 United States,No, 
 Uruguay,No, 
