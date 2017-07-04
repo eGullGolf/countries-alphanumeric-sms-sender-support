@@ -59,4 +59,4 @@ then
 fi
 
 echo 'copy final mapping at the script level'
-cp -p step5/names_alpha2.csv .
+cp -p step5/names_alpha2.csv country_mapping.csv
