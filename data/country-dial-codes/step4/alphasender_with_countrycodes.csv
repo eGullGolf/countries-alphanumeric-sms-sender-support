@@ -1,0 +1,217 @@
+COUNTRY,ALPHA SUPPORT,ISO3166-1-Alpha-2
+Afghanistan,no,AF
+Albania,yes,AL
+Algeria,no,DZ
+Andorra,yes,AD
+Angola,yes,AO
+Anguilla,yes,AI
+Antigua & Barbuda,yes,AG
+Argentina,no,AR
+Armenia,yes,AM
+Aruba,yes,AW
+Australia,yes,AU
+Austria,yes,AT
+Azerbaijan,no,AZ
+Bahamas,yes,BS
+Bahrain,yes,BH
+Bangladesh,no,BD
+Barbados,yes,BB
+Belarus,yes,BY
+Belgium,no,BE
+Belize,yes,BZ
+Benin,yes,BJ
+Bermuda,yes,BM
+Bhutan,yes,BT
+Bolivia,yes,BO
+Bosnia & Herzegovina,yes,BA
+Botswana,yes,BW
+Brazil,no,BR
+Brunei Darussalam,yes,BN
+Bulgaria,yes,BG
+Burkina Faso,yes,BF
+Burundi,yes,BI
+Cambodia,yes,KH
+Cameroon,yes,CM
+Canada,no,CA
+Cape Verde,yes,CV
+Cayman Islands,no,KY
+Central African Republic,yes,CF
+Chad,yes,TD
+Chile,no,CL
+China*,no,CN
+Colombia,no,CO
+Comoros,yes,KM
+Congo,no,CG
+Congo D.R.,no,CD
+Cook Islands,yes,CK
+Costa Rica,no,CR
+Croatia,no,HR
+Cuba,yes,CU
+Cyprus,yes,CY
+Czech Republic,yes,CZ
+Denmark,yes,DK
+Diego Garcia,no,IO
+Djibouti,yes,DJ
+Dominica,yes,DM
+Dominican Republic,no,DO
+Ecuador,no,EC
+Egypt,yes,EG
+El Salvador,no,SV
+Equatorial Guinea,yes,GQ
+Estonia,yes,EE
+Falkland Islands,yes,FK
+Faroe Islands,yes,FO
+Fiji,yes,FJ
+Finland,yes,FI
+France,yes,FR
+French Guiana,no,GF
+French Polynesia,yes,PF
+Gabon,yes,GA
+Gambia,yes,GM
+Georgia,yes,GE
+Germany,yes,DE
+Ghana,no,GH
+Gibraltar,yes,GI
+Greece,yes,GR
+Greenland,yes,GL
+Grenada,yes,GD
+Guadeloupe,yes,GP
+Guam,no,GU
+Guatemala,no,GT
+Guernsey,yes,GG
+Guinea,yes,GN
+Guinea-Bissau,yes,GW
+Guyana,yes,GY
+Haiti,yes,HT
+Honduras,no,HN
+Hong Kong,yes,HK
+Hungary,no,HU
+Iceland,yes,IS
+India,yes,IN
+Indonesia,yes,ID
+Iran,no,IR
+Iraq,no,IQ
+Ireland,yes,IE
+Isle of Man,yes,IM
+Israel,yes,IL
+Italy,yes,IT
+Cote dIvoire,yes,CI
+Jamaica,yes,JM
+Japan,partial,JP
+Jersey,yes,JE
+Jordan,yes,JO
+Kazakhstan,no,KZ
+Kenya,no,KE
+Kuwait,no,KW
+Kyrgyzstan,no,KG
+Laos PDR,no,LA
+Latvia,yes,LV
+Lebanon,yes,LB
+Lesotho,yes,LS
+Liberia,yes,LR
+Libya,yes,LY
+Liechtenstein,yes,LI
+Lithuania,yes,LT
+Luxembourg,yes,LU
+Macau,yes,MO
+Macedonia,yes,MK
+Madagascar,yes,MG
+Malawi,yes,MW
+Malaysia,no,MY
+Maldives,yes,MV
+Mali,no,ML
+Malta,yes,MT
+Martinique,yes,MQ
+Mauritania,yes,MR
+Mauritius,yes,MU
+Mayotte,yes,YT
+Mexico,no,MX
+Moldova,yes,MD
+Monaco,no,MC
+Mongolia,yes,MN
+Montenegro,yes,ME
+Montserrat,yes,MS
+Morocco,no,MA
+Mozambique,no,MZ
+Myanmar,no,MM
+Namibia,no,NA
+Nauru,no,NR
+Nepal,no,NP
+Netherlands,yes,NL
+Netherlands Antilles,yes,BQ
+New Caledonia,yes,NC
+New Zealand,no,NZ
+Nicaragua,no,NI
+Niger,yes,NE
+Nigeria,yes,NG
+Norfolk Island,yes,NF
+Norway,yes,NO
+Oman,yes,OM
+Pakistan,no,PK
+Palestinian Territory,partial,PS
+Panama,no,PA
+Papua New Guinea,yes,PG
+Paraguay,yes,PY
+Peru,partial,PE
+Philippines,yes,PH
+Poland,yes,PL
+Portugal,yes,PT
+Puerto Rico,no,PR
+Qatar,no,QA
+Reunion,yes,RE
+Romania,no,RO
+Russia,yes,RU
+Rwanda,yes,RW
+Samoa,yes,WS
+San Marino,yes,SM
+Sao Tome & Principe,yes,ST
+Saudi Arabia,yes,SA
+Senegal,yes,SN
+Serbia,yes,RS
+Seychelles,yes,SC
+Sierra Leone,yes,SL
+Singapore,yes,SG
+Slovakia,yes,SK
+Slovenia,yes,SI
+Solomon Islands,yes,SB
+Somalia,yes,SO
+South Africa,no,ZA
+South Korea,no,KR
+South Sudan,yes,SS
+Spain,yes,ES
+Sri Lanka,no,LK
+St Kitts & Nevis,yes,KN
+St Lucia,yes,LC
+St Vincent & the Grenadines,yes,VC
+Sudan,yes,SD
+Suriname,yes,SR
+Swaziland,yes,SZ
+Sweden,yes,SE
+Switzerland,yes,CH
+Syria,no,SY
+Taiwan,no,TW
+Tajikistan,yes,TJ
+Tanzania,yes,TZ
+Thailand,yes,TH
+Timor-Leste,yes,TL
+Togo,yes,TG
+Tonga,yes,TO
+Trinidad & Tobago,yes,TT
+Tunisia,no,TN
+Turkey,no,TR
+Turkmenistan,yes,TM
+Turks & Caicos Islands,yes,TC
+Uganda,yes,UG
+Ukraine,yes,UA
+United Arab Emirates,yes,AE
+United Kingdom,yes,GB
+United States,no,US
+Uruguay,no,UY
+Uzbekistan,yes,UZ
+Vanuatu,yes,VU
+Venezuela,no,VE
+Vietnam,no,VN
+Virgin Islands British,yes,VG
+Yemen,yes,YE
+Zambia,yes,ZM
+Zimbabwe,yes,ZW

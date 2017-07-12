@@ -1,0 +1,219 @@
+COUNTRY,ALPHA SUPPORT,ISO3166-1-Alpha-2,Dial
+Afghanistan,no,AF,93
+Albania,yes,AL,355
+Algeria,no,DZ,213
+Andorra,yes,AD,376
+Angola,yes,AO,244
+Anguilla,yes,AI,1264
+Antigua & Barbuda,yes,AG,1268
+Argentina,no,AR,54
+Armenia,yes,AM,374
+Aruba,yes,AW,297
+Australia,yes,AU,61
+Austria,yes,AT,43
+Azerbaijan,no,AZ,994
+Bahamas,yes,BS,1242
+Bahrain,yes,BH,973
+Bangladesh,no,BD,880
+Barbados,yes,BB,1246
+Belarus,yes,BY,375
+Belgium,no,BE,32
+Belize,yes,BZ,501
+Benin,yes,BJ,229
+Bermuda,yes,BM,1441
+Bhutan,yes,BT,975
+Bolivia,yes,BO,591
+Bosnia & Herzegovina,yes,BA,387
+Botswana,yes,BW,267
+Brazil,no,BR,55
+Brunei Darussalam,yes,BN,673
+Bulgaria,yes,BG,359
+Burkina Faso,yes,BF,226
+Burundi,yes,BI,257
+Cambodia,yes,KH,855
+Cameroon,yes,CM,237
+Canada,no,CA,1
+Cape Verde,yes,CV,238
+Cayman Islands,no,KY,1345
+Central African Republic,yes,CF,236
+Chad,yes,TD,235
+Chile,no,CL,56
+China*,no,CN,86
+Colombia,no,CO,57
+Comoros,yes,KM,269
+Congo,no,CG,242
+Congo D.R.,no,CD,243
+Cook Islands,yes,CK,682
+Costa Rica,no,CR,506
+Croatia,no,HR,385
+Cuba,yes,CU,53
+Cyprus,yes,CY,357
+Czech Republic,yes,CZ,420
+Denmark,yes,DK,45
+Diego Garcia,no,IO,246
+Djibouti,yes,DJ,253
+Dominica,yes,DM,1767
+Dominican Republic,no,DO,1829
+Dominican Republic,no,DO,1849
+Dominican Republic,no,DO,1809
+Ecuador,no,EC,593
+Egypt,yes,EG,20
+El Salvador,no,SV,503
+Equatorial Guinea,yes,GQ,240
+Estonia,yes,EE,372
+Falkland Islands,yes,FK,500
+Faroe Islands,yes,FO,298
+Fiji,yes,FJ,679
+Finland,yes,FI,358
+France,yes,FR,33
+French Guiana,no,GF,594
+French Polynesia,yes,PF,689
+Gabon,yes,GA,241
+Gambia,yes,GM,220
+Georgia,yes,GE,995
+Germany,yes,DE,49
+Ghana,no,GH,233
+Gibraltar,yes,GI,350
+Greece,yes,GR,30
+Greenland,yes,GL,299
+Grenada,yes,GD,1473
+Guadeloupe,yes,GP,590
+Guam,no,GU,1671
+Guatemala,no,GT,502
+Guernsey,yes,GG,44
+Guinea,yes,GN,224
+Guinea-Bissau,yes,GW,245
+Guyana,yes,GY,592
+Haiti,yes,HT,509
+Honduras,no,HN,504
+Hong Kong,yes,HK,852
+Hungary,no,HU,36
+Iceland,yes,IS,354
+India,yes,IN,91
+Indonesia,yes,ID,62
+Iran,no,IR,98
+Iraq,no,IQ,964
+Ireland,yes,IE,353
+Isle of Man,yes,IM,44
+Israel,yes,IL,972
+Italy,yes,IT,39
+Cote dIvoire,yes,CI,225
+Jamaica,yes,JM,1876
+Japan,partial,JP,81
+Jersey,yes,JE,44
+Jordan,yes,JO,962
+Kazakhstan,no,KZ,7
+Kenya,no,KE,254
+Kuwait,no,KW,965
+Kyrgyzstan,no,KG,996
+Laos PDR,no,LA,856
+Latvia,yes,LV,371
+Lebanon,yes,LB,961
+Lesotho,yes,LS,266
+Liberia,yes,LR,231
+Libya,yes,LY,218
+Liechtenstein,yes,LI,423
+Lithuania,yes,LT,370
+Luxembourg,yes,LU,352
+Macau,yes,MO,853
+Macedonia,yes,MK,389
+Madagascar,yes,MG,261
+Malawi,yes,MW,265
+Malaysia,no,MY,60
+Maldives,yes,MV,960
+Mali,no,ML,223
+Malta,yes,MT,356
+Martinique,yes,MQ,596
+Mauritania,yes,MR,222
+Mauritius,yes,MU,230
+Mayotte,yes,YT,262
+Mexico,no,MX,52
+Moldova,yes,MD,373
+Monaco,no,MC,377
+Mongolia,yes,MN,976
+Montenegro,yes,ME,382
+Montserrat,yes,MS,1664
+Morocco,no,MA,212
+Mozambique,no,MZ,258
+Myanmar,no,MM,95
+Namibia,no,NA,264
+Nauru,no,NR,674
+Nepal,no,NP,977
+Netherlands,yes,NL,31
+Netherlands Antilles,yes,BQ,599
+New Caledonia,yes,NC,687
+New Zealand,no,NZ,64
+Nicaragua,no,NI,505
+Niger,yes,NE,227
+Nigeria,yes,NG,234
+Norfolk Island,yes,NF,672
+Norway,yes,NO,47
+Oman,yes,OM,968
+Pakistan,no,PK,92
+Palestinian Territory,partial,PS,970
+Panama,no,PA,507
+Papua New Guinea,yes,PG,675
+Paraguay,yes,PY,595
+Peru,partial,PE,51
+Philippines,yes,PH,63
+Poland,yes,PL,48
+Portugal,yes,PT,351
+Puerto Rico,no,PR,1
+Qatar,no,QA,974
+Reunion,yes,RE,262
+Romania,no,RO,40
+Russia,yes,RU,7
+Rwanda,yes,RW,250
+Samoa,yes,WS,685
+San Marino,yes,SM,378
+Sao Tome & Principe,yes,ST,239
+Saudi Arabia,yes,SA,966
+Senegal,yes,SN,221
+Serbia,yes,RS,381 p
+Seychelles,yes,SC,248
+Sierra Leone,yes,SL,232
+Singapore,yes,SG,65
+Slovakia,yes,SK,421
+Slovenia,yes,SI,386
+Solomon Islands,yes,SB,677
+Somalia,yes,SO,252
+South Africa,no,ZA,27
+South Korea,no,KR,82
+South Sudan,yes,SS,211
+Spain,yes,ES,34
+Sri Lanka,no,LK,94
+St Kitts & Nevis,yes,KN,1869
+St Lucia,yes,LC,1758
+St Vincent & the Grenadines,yes,VC,1784
+Sudan,yes,SD,249
+Suriname,yes,SR,597
+Swaziland,yes,SZ,268
+Sweden,yes,SE,46
+Switzerland,yes,CH,41
+Syria,no,SY,963
+Taiwan,no,TW,886
+Tajikistan,yes,TJ,992
+Tanzania,yes,TZ,255
+Thailand,yes,TH,66
+Timor-Leste,yes,TL,670
+Togo,yes,TG,228
+Tonga,yes,TO,676
+Trinidad & Tobago,yes,TT,1868
+Tunisia,no,TN,216
+Turkey,no,TR,90
+Turkmenistan,yes,TM,993
+Turks & Caicos Islands,yes,TC,1649
+Uganda,yes,UG,256
+Ukraine,yes,UA,380
+United Arab Emirates,yes,AE,971
+United Kingdom,yes,GB,44
+United States,no,US,1
+Uruguay,no,UY,598
+Uzbekistan,yes,UZ,998
+Vanuatu,yes,VU,678
+Venezuela,no,VE,58
+Vietnam,no,VN,84
+Virgin Islands British,yes,VG,1284
+Yemen,yes,YE,967
+Zambia,yes,ZM,260
+Zimbabwe,yes,ZW,263
